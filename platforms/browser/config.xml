@@ -6,9 +6,9 @@
     <feature name="Device">
         <param name="browser-package" value="Device" />
     </feature>
-    <name>Referidos</name>
+    <name>Informativa</name>
     <description>
-        Referidos
+        Informativa
     </description>
     <author email="operaciones@estrategicaco.com" href="http://estrategicacomunicaciones.com">
         Estrategica Comunicaciones
